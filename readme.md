@@ -1,9 +1,11 @@
-# Ayaka <img height='28' src='https://files.catbox.moe/0ji245.png' />
+# Ayaka
+
 I am a very very **comfy** reactions bot!
 
-# Invite 
+# Invite
+
 To invite me just [**click here**](https://dsc.gg/ayakabot) and i'll popup in your discord server.
 
-<img src='https://files.catbox.moe/o9581l.png' />
+<img src='/public/ayaka.png' />
 
-illust by [**chuchugou**](https://twitter.com/chuchugou) (check em out if ya like it)
+illust by [**isobe47**](https://x.com/isb_47) (check em out if ya like it)
