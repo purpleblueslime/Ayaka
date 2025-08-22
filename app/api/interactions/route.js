@@ -6,7 +6,12 @@ export async function POST(re) {
 
   const { sign, ts, key } = process.env; // env: headers & key
 
-  const isOk = await verifyKey(raw, re.headers[sign], re.headers[ts], key);
+  const isOk = await verifyKey(
+    raw,
+    re.headers.get(sign),
+    re.headers.get(ts),
+    key
+  );
 
   if (!isOk) {
     return Response.json({ error: 'cant verify ;-;' }, { status: 401 });
